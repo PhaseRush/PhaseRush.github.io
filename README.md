@@ -1,3 +1,3 @@
 # Personal Website
 
-Well, what did you expect?
+Still a work in progress. Currently have most of the general layout complete.
